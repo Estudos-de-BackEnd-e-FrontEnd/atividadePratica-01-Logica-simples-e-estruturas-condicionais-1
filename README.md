@@ -4,6 +4,14 @@ Este repositório contém exercícios de JAVASCRIPT. Abaixo você pode encontrar
 
 <hr>
 
+## Como utilizar:
+Faça o clone deste repositório para a sua maquina, só seguir o comando abaixo:
+
+```
+git clone https://github.com/lucaspaulus/atividadePratica-01-Logica-simples-e-estruturas-condicionais-1
+```
+depois de feito o clone do repositório, certifique que tenha instalado a extensão Live Server no vscode, clique com o botão direito no index.html e clique 
+em abrir com Live Server.
 
 ## Exemplos:
 1. Crie uma variável JavaScript e coloque nela o valor de sua idade.
